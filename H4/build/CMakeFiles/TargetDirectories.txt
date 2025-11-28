@@ -1,0 +1,7 @@
+C:/Users/kanam/Desktop/Oamk/Olio-ohjelmointi ja oliopohjainen suunnittelu/codes/Olio-ohjelmointi/H4/build/CMakeFiles/H4.dir
+C:/Users/kanam/Desktop/Oamk/Olio-ohjelmointi ja oliopohjainen suunnittelu/codes/Olio-ohjelmointi/H4/build/CMakeFiles/edit_cache.dir
+C:/Users/kanam/Desktop/Oamk/Olio-ohjelmointi ja oliopohjainen suunnittelu/codes/Olio-ohjelmointi/H4/build/CMakeFiles/rebuild_cache.dir
+C:/Users/kanam/Desktop/Oamk/Olio-ohjelmointi ja oliopohjainen suunnittelu/codes/Olio-ohjelmointi/H4/build/CMakeFiles/list_install_components.dir
+C:/Users/kanam/Desktop/Oamk/Olio-ohjelmointi ja oliopohjainen suunnittelu/codes/Olio-ohjelmointi/H4/build/CMakeFiles/install.dir
+C:/Users/kanam/Desktop/Oamk/Olio-ohjelmointi ja oliopohjainen suunnittelu/codes/Olio-ohjelmointi/H4/build/CMakeFiles/install/local.dir
+C:/Users/kanam/Desktop/Oamk/Olio-ohjelmointi ja oliopohjainen suunnittelu/codes/Olio-ohjelmointi/H4/build/CMakeFiles/install/strip.dir
